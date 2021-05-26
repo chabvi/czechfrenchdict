@@ -1,0 +1,28 @@
+F:\Domaciukoly\PVA2\projekt\dictionary\dictionary\bin\Debug\dictionary.exe.config
+F:\Domaciukoly\PVA2\projekt\dictionary\dictionary\bin\Debug\dictionary.exe
+F:\Domaciukoly\PVA2\projekt\dictionary\dictionary\bin\Debug\dictionary.pdb
+F:\Domaciukoly\PVA2\projekt\dictionary\dictionary\obj\Debug\dictionary.csprojAssemblyReference.cache
+F:\Domaciukoly\PVA2\projekt\dictionary\dictionary\obj\Debug\dictionary.Form1.resources
+F:\Domaciukoly\PVA2\projekt\dictionary\dictionary\obj\Debug\dictionary.Properties.Resources.resources
+F:\Domaciukoly\PVA2\projekt\dictionary\dictionary\obj\Debug\dictionary.csproj.GenerateResource.cache
+F:\Domaciukoly\PVA2\projekt\dictionary\dictionary\obj\Debug\dictionary.exe
+F:\Domaciukoly\PVA2\projekt\dictionary\dictionary\obj\Debug\dictionary.pdb
+F:\Domaciukoly\PVA2\projekt\2.B Cháb projekt slovník\dictionary\bin\Debug\dictionary.exe.config
+F:\Domaciukoly\PVA2\projekt\2.B Cháb projekt slovník\dictionary\bin\Debug\dictionary.exe
+F:\Domaciukoly\PVA2\projekt\2.B Cháb projekt slovník\dictionary\bin\Debug\dictionary.pdb
+F:\Domaciukoly\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.csprojAssemblyReference.cache
+F:\Domaciukoly\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.Form1.resources
+F:\Domaciukoly\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.Properties.Resources.resources
+F:\Domaciukoly\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.csproj.GenerateResource.cache
+F:\Domaciukoly\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.exe
+F:\Domaciukoly\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.pdb
+Z:\PVA2\projekt\2.B Cháb projekt slovník\dictionary\bin\Debug\dictionary.exe.config
+Z:\PVA2\projekt\2.B Cháb projekt slovník\dictionary\bin\Debug\dictionary.exe
+Z:\PVA2\projekt\2.B Cháb projekt slovník\dictionary\bin\Debug\dictionary.pdb
+Z:\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.csprojAssemblyReference.cache
+Z:\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.Form1.resources
+Z:\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.Properties.Resources.resources
+Z:\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.csproj.GenerateResource.cache
+Z:\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+Z:\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.exe
+Z:\PVA2\projekt\2.B Cháb projekt slovník\dictionary\obj\Debug\dictionary.pdb

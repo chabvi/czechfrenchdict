@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <word>
+        <name>voiture</name>
+        <french>voiture</french>
+        <czech>auto</czech>
+        <partofspeech>noun</partofspeech>
+        <gender>f</gender>
+        <plural>voitures</plural>
+    </word>
+    <word>
+        <name>maison</name>
+        <french>maison</french>
+        <czech>dům</czech>
+        <partofspeech>noun</partofspeech>
+        <gender>f</gender>
+        <plural>maisons</plural>
+    </word>
+    <word>
+        <name>bois[n]</name>
+        <french>bois</french>
+        <czech>dřevo</czech>
+        <partofspeech>noun</partofspeech>
+        <gender>m</gender>
+        <plural>bois</plural>
+    </word>
+    <word>
+        <name>pain</name>
+        <french>pain</french>
+        <czech>pečivo</czech>
+        <partofspeech>noun</partofspeech>
+        <gender>m</gender>
+        <plural>pains</plural>
+    </word>
+    <word>
+        <name>journal</name>
+        <french>journal</french>
+        <czech>noviny</czech>
+        <partofspeech>noun</partofspeech>
+        <gender>m</gender>
+        <plural>journaux</plural>
+    </word>
+    <word>
+        <name>bois[v]</name>
+        <french>bois</french>
+        <czech>pít</czech>
+        <partofspeech>verb</partofspeech>
+		<tenses>
+			<tense type="present">
+				<wordform>bois</wordform>
+				<wordform>bois</wordform>
+				<wordform>boit</wordform>
+				<wordform>buvons</wordform>
+				<wordform>buvez</wordform>
+				<wordform>boivent</wordform>
+			</tense>
+			<tense type="pastsimple">
+				<wordform>bus</wordform>
+				<wordform>bus</wordform>
+				<wordform>but</wordform>
+				<wordform>bûmes</wordform>
+				<wordform>bûtes</wordform>
+				<wordform>burent</wordform>
+			</tense>
+			<tense type="imperfect">
+				<wordform>buvais</wordform>
+				<wordform>buvais</wordform>
+				<wordform>buvait</wordform>
+				<wordform>buvions</wordform>
+				<wordform>buviez</wordform>
+				<wordform>buvaient</wordform>
+			</tense>
+			<tense type="future">
+				<wordform>boirai</wordform>
+				<wordform>boiras</wordform>
+				<wordform>boira</wordform>
+				<wordform>boirons</wordform>
+				<wordform>boirez</wordform>
+				<wordform>boiront</wordform>
+			</tense>
+			<tense type="subjunctive">
+				<wordform>que je boive</wordform>
+				<wordform>que tu boives</wordform>
+				<wordform>qu'il/elle boive</wordform>
+				<wordform>que nous buvions</wordform>
+				<wordform>que vous buviez</wordform>
+				<wordform>qu'ils/elles boivent</wordform>
+			</tense>
+		</tenses>
+    </word>
+    <word>
+        <name>réfléchir</name>
+        <french>réfléchir</french>
+        <czech>myslet</czech>
+        <partofspeech>verb</partofspeech>
+		<tenses>
+			<tense type="present">
+				<wordform>bois</wordform>
+				<wordform>bois</wordform>
+				<wordform>boit</wordform>
+				<wordform>buvons</wordform>
+				<wordform>buvez</wordform>
+				<wordform>boivent</wordform>
+			</tense>
+			<tense type="pastsimple">
+				<wordform>bus</wordform>
+				<wordform>bus</wordform>
+				<wordform>but</wordform>
+				<wordform>bûmes</wordform>
+				<wordform>bûtes</wordform>
+				<wordform>burent</wordform>
+			</tense>
+			<tense type="imperfect">
+				<wordform>buvais</wordform>
+				<wordform>buvais</wordform>
+				<wordform>buvait</wordform>
+				<wordform>buvions</wordform>
+				<wordform>buviez</wordform>
+				<wordform>buvaient</wordform>
+			</tense>
+			<tense type="future">
+				<wordform>boirai</wordform>
+				<wordform>boiras</wordform>
+				<wordform>boira</wordform>
+				<wordform>boirons</wordform>
+				<wordform>boirez</wordform>
+				<wordform>boiront</wordform>
+			</tense>
+			<tense type="subjunctive">
+				<wordform>que je boive</wordform>
+				<wordform>que tu boives</wordform>
+				<wordform>qu'il/elle boive</wordform>
+				<wordform>que nous buvions</wordform>
+				<wordform>que vous buviez</wordform>
+				<wordform>qu'ils/elles boivent</wordform>
+			</tense>
+		</tenses>
+    </word>
+    <word>
+        <name>penser</name>
+        <french>penser</french>
+        <czech>myslet</czech>
+        <partofspeech>verb</partofspeech>
+		<tenses>
+			<tense type="present">
+				<wordform>bois</wordform>
+				<wordform>bois</wordform>
+				<wordform>boit</wordform>
+				<wordform>buvons</wordform>
+				<wordform>buvez</wordform>
+				<wordform>boivent</wordform>
+			</tense>
+			<tense type="pastsimple">
+				<wordform>bus</wordform>
+				<wordform>bus</wordform>
+				<wordform>but</wordform>
+				<wordform>bûmes</wordform>
+				<wordform>bûtes</wordform>
+				<wordform>burent</wordform>
+			</tense>
+			<tense type="imperfect">
+				<wordform>buvais</wordform>
+				<wordform>buvais</wordform>
+				<wordform>buvait</wordform>
+				<wordform>buvions</wordform>
+				<wordform>buviez</wordform>
+				<wordform>buvaient</wordform>
+			</tense>
+			<tense type="future">
+				<wordform>boirai</wordform>
+				<wordform>boiras</wordform>
+				<wordform>boira</wordform>
+				<wordform>boirons</wordform>
+				<wordform>boirez</wordform>
+				<wordform>boiront</wordform>
+			</tense>
+			<tense type="subjunctive">
+				<wordform>que je boive</wordform>
+				<wordform>que tu boives</wordform>
+				<wordform>qu'il/elle boive</wordform>
+				<wordform>que nous buvions</wordform>
+				<wordform>que vous buviez</wordform>
+				<wordform>qu'ils/elles boivent</wordform>
+			</tense>
+		</tenses>
+    </word>
+    <word>
+        <name>pensée</name>
+        <french>pensée</french>
+        <czech>myšlenka</czech>
+        <partofspeech>noun</partofspeech>
+        <gender>f</gender>
+        <plural>pensées</plural>
+    </word>
+    <word>
+        <name>brésilien(ne)</name>
+        <french>brésilien(ne)</french>
+        <czech>brazilský/á</czech>
+        <partofspeech>adjective</partofspeech>
+        <plural>brésiliens/brésiliennes</plural>
+    </word>
+	<word>
+	<name>sussí báules</name>
+	<french>sussí báules</french>
+	<czech>letadlová loď</czech>
+	<partofspeech>noun</partofspeech>
+	<gender>m</gender>
+	<plural>sussí báules</plural>
+	</word>
+</list>
